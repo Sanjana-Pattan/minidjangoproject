@@ -1,0 +1,10 @@
+SANJANA S PATTAN
+
+An Employee Management System (EMS) is successfully built using Django. I have also used HTML, Bootsrap along with django.
+The Employee Management System Project is a crucial piece of software made to track employee data for any business.
+Information about their employees personal details is stored there.
+
+CONTRIBUTION:
+I have contributed in building the despartments time-sheet entry.
+In this timesheet, the employer can track the time of a particular employee has worked during a certain period.
+The time-sheet module consists of three fields, that is, adding, list and filtering the timesheet.
